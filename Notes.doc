@@ -1,0 +1,33 @@
+- Build a portfolio website
+- Host it publicly on AWS S3 bucket
+
+
+Design ideas:
+
+Using flexbox - to create 2 dimensional areas (rows OR columns) display: flex;
+Using CSS grid - to create 3 dimensional layouts (rows and columns) display: grid;
+
+Grid:
+
+grid-template-columns: 1fr 1fr 1fr; (stacks up if more than 3)
+
+GRID TEMPLATE AREAS
+
+grid-area
+
+POSITIONING ELEMENTS
+
+justify-content - to stack elements in horizontal X axis
+align-content - to align elements in vertical Y axis 
+
+
+Design
+
+- Each section using grid.
+
+   Section - container -grids
+
+- Fonts taken from google fonts.
+- Box shadow referred in css shadow generator.
+- css tricks - a guide to flexbox
+
